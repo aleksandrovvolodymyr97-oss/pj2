@@ -41,7 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML structure
 ```html
-<h1>
 <!DOCTYPE html>
 <html>
   <head>
@@ -52,7 +51,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     </div>
   </body>
 </html>
-</h1>
 ```
 - CSS structure
 ```css
