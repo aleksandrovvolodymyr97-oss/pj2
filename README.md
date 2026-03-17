@@ -34,37 +34,40 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML & CSS Full Course - Beginner to Pro](https://youtu.be/G3e-cpL7ofc)
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
+- HTML structure
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <div>
+    </div>
+  </body>
+</html>
+</h1>
 ```
+- CSS structure
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+body {
+  position: relative;
+  display: flex;
+  font-family: Outfit, Arial;
+  background-color: hsl(212, 45%, 89%);
+}
+.qr {
+  position: relative;
+  background-color: white;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
