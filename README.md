@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://github.com/aleksandrovvolodymyr97-oss/pj2)
-- [Live Site URL](https://aleksandrovvolodymyr97-oss.github.io/pj2/)
+- [Solution URL](https://github.com/happilfan/QR-code-component)
+- [Live Site URL](https://happilfan.github.io/QR-code-component/)
 
 ## My process
 
@@ -81,5 +81,5 @@ In future projects I wants to learn JavaScript and show how to use this.
 
 ## Author
 
-- Website - [Volodymyr Aleksandrov](https://github.com/aleksandrovvolodymyr97-oss)
+- Website - [Volodymyr Aleksandrov](https://github.com/happilfan)
 - Frontend Mentor - [@aleksandrovvolodymyr97-oss](https://www.frontendmentor.io/profile/aleksandrovvolodymyr97-oss)
